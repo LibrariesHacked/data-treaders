@@ -1,0 +1,17 @@
+{
+    "title": "Yoyage of the Data Treader",
+    "description": "",
+    "author": "Data Treaders",
+    "plugins": ["anchors", "swimlanes-io"],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "ribbon": {
+            "color": "orange",
+            "text": "Modify this page",
+            "url": "https://github.com/librarieshacked/data-treaders",
+            "appendFilepath": true
+        }
+    }
+}
