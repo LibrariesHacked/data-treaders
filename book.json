@@ -12,6 +12,8 @@
             "text": "Modify this page",
             "url": "https://github.com/librarieshacked/data-treaders",
             "appendFilepath": true
+        },
+        "chartjs": {
         }
     }
 }
