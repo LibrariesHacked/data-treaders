@@ -1,8 +1,8 @@
 {
-    "title": "Yoyage of the Data Treader",
+    "title": "Voyage of the Data Treader",
     "description": "",
     "author": "Data Treaders",
-    "plugins": ["anchors", "swimlanes-io"],
+    "plugins": ["chartjs"],
     "pluginsConfig": {
         "theme-default": {
             "showLevel": true
