@@ -20,31 +20,15 @@ We asked this question so we could get an idea of how people saw their own exper
         labels: ["Beginner", "Intermediate", "Expert"],
         datasets: [{
             label: '',
-            data: [18, 12, 6],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)'
-            ],
-            borderColor: [
-                'rgba(255,99,132,1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)'
-            ],
-            borderWidth: 1
+            data: [18, 12, 6]
         }]
     },
     options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero:true
-                }
-            }]
-        }
+
     }
 }
 {% endchartjs %}
+
 
 #### Which Library Carpentry modules would you most like to cover?
 
