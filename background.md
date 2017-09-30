@@ -1,7 +1,10 @@
 Background
 ==========
 
-We ran a google form to ask people some brief questions, such as their level of data experience, which Library Carpentry modules they'd be most interested in, and what they would like to talk about at a future library data event.  These were the results.
+
+### Research
+
+Before finalising this event we used a Google form to ask people some brief questions, such as their level of data experience, which Library Carpentry modules they'd be most interested in, and what they would like to talk about at a future library data event.  These were the results.
 
 #### How would you describe your experience of working with data?
 
@@ -32,7 +35,7 @@ We asked this question so we could get an idea of how people saw their own exper
 
 #### Which Library Carpentry modules would you most like to cover?
 
-
+We wanted to make this event a chance to learn skills
 
 
 
