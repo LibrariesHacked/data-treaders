@@ -1,7 +1,6 @@
 Background
 ==========
 
-
 ### Research
 
 Before finalising this event we used a Google form to ask people some brief questions, such as their level of data experience, which Library Carpentry modules they'd be most interested in, and what they would like to talk about at a future library data event.  These were the results.
@@ -23,7 +22,17 @@ We asked this question so we could get an idea of how people saw their own exper
         labels: ["Beginner", "Intermediate", "Expert"],
         datasets: [{
             label: '',
-            data: [18, 12, 6]
+            data: [18, 12, 6],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255,99,132,1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)'
+            ]
         }]
     },
     options: {
@@ -35,25 +44,34 @@ We asked this question so we could get an idea of how people saw their own exper
 
 #### Which Library Carpentry modules would you most like to cover?
 
-We wanted to make this event a chance to learn skills
+We wanted to make this event a chance to learn data skills and Library Carpentry materials are a set of learning materials in various areas around data, automation and programming.  We asked people to vote on which modules they would like to learn (they could choose as many as they liked).
 
-
+| Title |
+| ----- |
+| Introduction to Data |
+| Tidy data and spreadsheets |
+| Introduction to Python |
+| Cleaning and enhancing data in OpenRefine |
+| Introduction to Git |
+| Unix shell command line interface |
+| Structured Query Language (SQL) |
 
 {% chartjs %}
 {
     type: 'bar',
     data: {
-        labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+        labels: ["Data Intro", "Data/spreadsheets", "Python", "OpenRefine", "Git", "Command Line", "SQL"],
         datasets: [{
             label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
+            data: [18, 25, 20, 23, 17, 13, 18],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(54, 162, 235, 0.2)',
                 'rgba(255, 206, 86, 0.2)',
                 'rgba(75, 192, 192, 0.2)',
                 'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 99, 132, 0.2)'
             ],
             borderColor: [
                 'rgba(255,99,132,1)',
@@ -61,7 +79,8 @@ We wanted to make this event a chance to learn skills
                 'rgba(255, 206, 86, 1)',
                 'rgba(75, 192, 192, 1)',
                 'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
+                'rgba(255, 159, 64, 1)',
+                'rgba(255,99,132,1)'
             ],
             borderWidth: 1
         }]
@@ -77,3 +96,18 @@ We wanted to make this event a chance to learn skills
     }
 }
 {% endchartjs %}
+
+#### What else would you like to cover?
+
+
+| Answers |
+| ------- |
+| Open data advocacy
+| How to talk to leaders and managers about open data |
+| How to allay fears and influence senior managers |
+| How to work with Local authority IT teams or departments |
+| How to extract data from specific LMSs |
+| Using/identifying tools for working with data, from data creation, data cleansing/normalization to manipulating data |
+| Open data and libraries |
+| What primary data libraries own and what they use it for.
+| Using R Studio (R) |
