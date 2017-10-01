@@ -1,13 +1,11 @@
 Background
 ==========
 
-### Research
-
-Before finalising this event we used a Google form to ask people some brief questions, such as their level of data experience, which Library Carpentry modules they'd be most interested in, and what they would like to talk about at a future library data event.  These were the results.
+Before finalising this event we used a Google form to ask people some brief questions, such as their data experience, which Library Carpentry modules they'd be interested in, and what they'd like to talk about at a data event.
 
 #### How would you describe your experience of working with data?
 
-We asked this question so we could get an idea of how people saw their own experience with data. That could potentially influence the training sessions we ran, but really it was just to get an idea of the particular mix of attendees we would get. Any training sessions would be designed to ensure every level of expertise was welcome - having an idea of the mix is good for planning how to separate groups.
+We asked this question so we could get an idea of how people saw their own experience with data. That could influence the training sessions we ran, but really it was just to get an idea of the mix of attendees we might get. Any training sessions would ensure every level of expertise was welcome - but having an idea of the mix is good for planning.
 
 | Option | Description |
 | ------ | ----------- |
@@ -44,17 +42,17 @@ We asked this question so we could get an idea of how people saw their own exper
 
 #### Which Library Carpentry modules would you most like to cover?
 
-We wanted to make this event a chance to learn data skills and Library Carpentry materials are a set of learning materials in various areas around data, automation and programming.  We asked people to vote on which modules they would like to learn (they could choose as many as they liked).
+We wanted to make this event a chance to learn data skills. Library Carpentry materials are lessons in various areas around data, automation and programming.  We asked people to vote on which modules they would like to learn (they could choose as many as they liked).
 
-| Title |
-| ----- |
-| Introduction to Data |
-| Tidy data and spreadsheets |
-| Introduction to Python |
-| Cleaning and enhancing data in OpenRefine |
-| Introduction to Git |
-| Unix shell command line interface |
-| Structured Query Language (SQL) |
+| Option | More Info |
+| ------ | --------- |
+| Introduction to Data | [Library Carpentry Link](https://data-lessons.github.io/library-data-intro) |
+| Tidy data and spreadsheets | [Library Carpentry Link](https://jezcope.github.io/library-spreadsheets) |
+| Introduction to Programming with Python | [Library Carpentry Link](https://data-lessons.github.io/library-python-intro/) |
+| Cleaning and enhancing data in OpenRefine | [Library Carpentry Link](https://data-lessons.github.io/library-openrefine/) |
+| Introduction to Git | [Library Carpentry Link](https://data-lessons.github.io/library-git/) |
+| Unix shell command line interface | [Library Carpentry Link](https://data-lessons.github.io/library-shell/) |
+| Structured Query Language (SQL) | [Library Carpentry Link](https://data-lessons.github.io/library-sql/) |
 
 {% chartjs %}
 {
@@ -99,6 +97,7 @@ We wanted to make this event a chance to learn data skills and Library Carpentry
 
 #### What else would you like to cover?
 
+Being an unconference (with structured workshops as well), we were interested in what people would want to talk about. Everyone will be free to pitch on the day, but these are a selection of suggestions we've already received.
 
 | Answers |
 | ------- |
