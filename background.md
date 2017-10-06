@@ -1,11 +1,11 @@
 Background
 ==========
 
-Before listing the event we used a Google form to ask people some questions, such as their data experience, which Library Carpentry modules they'd be interested in, and what they'd like to talk about at a data event.
+Before advertising the event we used a Google form to ask people some questions, such as their data experience, which Library Carpentry modules they'd be interested in, and what they'd like to talk about at a data event.
 
 #### How would you describe your experience of working with data?
 
-We asked this question so we could get an idea of how people described their own experience with data. That could influence the training sessions we ran, but really was just to get an idea of the mix of attendees we might get. Any training would ensure every level of expertise was welcome - but having an idea of the mix is good for planning.
+We asked this so we could get an idea of how people viewed their own experience with data. That could influence the training sessions we ran, but was just to get an idea of the mix of attendees. Any training would ensure every level of expertise was welcome.
 
 | Option | Description |
 | ------ | ----------- |
@@ -39,20 +39,19 @@ We asked this question so we could get an idea of how people described their own
 }
 {% endchartjs %}
 
-
 #### Which Library Carpentry modules would you most like to cover?
 
-We wanted to make this event a chance to learn data skills. Library Carpentry materials are lessons in various areas around data, automation and programming. We asked people to vote on which modules they would like to learn (they could choose as many as they liked).
+We wanted to make this a chance to learn data skills. Library Carpentry materials are lessons in various areas around data, automation and programming. We asked people to vote on which modules they would like to learn (they could choose as many as they liked).
 
-| Option | More Info |
-| ------ | --------- |
-| Introduction to Data | [Library Carpentry Link](https://data-lessons.github.io/library-data-intro) |
-| Tidy data and spreadsheets | [Library Carpentry Link](https://jezcope.github.io/library-spreadsheets) |
-| Introduction to Programming with Python | [Library Carpentry Link](https://data-lessons.github.io/library-python-intro/) |
-| Cleaning and enhancing data in OpenRefine | [Library Carpentry Link](https://data-lessons.github.io/library-openrefine/) |
-| Introduction to Git | [Library Carpentry Link](https://data-lessons.github.io/library-git/) |
-| Unix shell command line interface | [Library Carpentry Link](https://data-lessons.github.io/library-shell/) |
-| Structured Query Language (SQL) | [Library Carpentry Link](https://data-lessons.github.io/library-sql/) |
+| Option | Number of votes | More Info |
+| ------ | --------------- | --------- |
+| Introduction to Data | 18 | [Library Carpentry Link](https://data-lessons.github.io/library-data-intro) |
+| Tidy data and spreadsheets | 25 | [Library Carpentry Link](https://jezcope.github.io/library-spreadsheets) |
+| Introduction to Programming with Python | 20 | [Library Carpentry Link](https://data-lessons.github.io/library-python-intro/) |
+| Cleaning and enhancing data in OpenRefine | 23 | [Library Carpentry Link](https://data-lessons.github.io/library-openrefine/) |
+| Introduction to Git | 17 | [Library Carpentry Link](https://data-lessons.github.io/library-git/) |
+| Unix shell command line interface | 13 | [Library Carpentry Link](https://data-lessons.github.io/library-shell/) |
+| Structured Query Language (SQL) | 18 | [Library Carpentry Link](https://data-lessons.github.io/library-sql/) |
 
 {% chartjs %}
 {
@@ -97,7 +96,7 @@ We wanted to make this event a chance to learn data skills. Library Carpentry ma
 
 #### What else would you like to cover?
 
-Being an unconference (with some structured workshops as well), we were interested in what people would want to talk about. Everyone will be free to pitch on the day, but these are a selection of suggestions we've already received.
+We were interested in what people would want to talk about. Everyone will be free to pitch on the day, but these are a selection of suggestions we've already received.
 
 | Answers |
 | ------- |
