@@ -20,7 +20,7 @@ The day
 
 ### Equipment
 
-Both of the practical sessions will have practical lessons (Introduction to Data,  and OpenRefine) where a laptop would be useful. However, this will only be for a relatively short part of the day, so do feel free to come along without any a laptop.
+Both of the practical sessions will include lessons (Introduction to Data and OpenRefine) where a laptop would be useful. However, this will only be for a relatively short part of the day, so do feel free to come along without one.
 
 
 #### Introduction to Data
