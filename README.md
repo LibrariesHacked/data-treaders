@@ -19,7 +19,7 @@ Planned teaching sessions (adapted from Library Carpentry materials) include:
 
 #### Discussions
 
-You’ll be able to pitch discussion topics on the day, but some discussions already planned include:
+You’ll be able to pitch discussion topics on the day, but some discussions already suggested include:
 
 - Open data advocacy - how to talk to leaders and managers about open data.
 - How to extract data from different LMSs
