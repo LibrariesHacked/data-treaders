@@ -39,3 +39,7 @@ There will also be fresh library data for the event to explore and discuss.
 Twitter: [#DataTreaders](https://twitter.com/search?q=%23datatreaders)
 
 The Data Treaders are Claire Back (Plymouth Libraries), Aude Charillon (Newcastle Libraries) and Dave Rowe (LibrariesWest), with help from Denise Jones (Liverpool) and John Daniel (Leeds). OpenRefine training is provided by Owen Stephens.
+
+#### Sponsors
+
+This event is supported by the [Libraries Taskforce](https://librariestaskforce.blog.gov.uk/) and [UKGovCamp](https://www.ukgovcamp.com/2017/10/17/library-data-day/)
