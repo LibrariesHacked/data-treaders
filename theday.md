@@ -11,9 +11,9 @@ The day
 | 11:15 | Tea Break |  |  | Reconfigure rooms |
 | 11:30 | Session 1 | Session 1 |  |  |
 | 12:15 | Session 2 | Session 2 |  |  |
-| 13:00 | Lunch and setup guidance for OpenRefine |  |  | Reconfigure rooms |
+| 13:00 | Lunch and setup guidance for OpenRefine |  |  |  |
 | 13:45 | Introduction to OpenRefine |  |  |  |
-| 14:20 | OpenRefine Workshop | Session 3 | Reconfigure rooms |  |
+| 14:20 | OpenRefine Workshop | Session 3 |  |  |
 | 15:00 | Tea break |  |  |  |
 | 15:15 | Session 4 | Session 4 |  |  |
 | 16:00 | Group feedback |  |  |  |
