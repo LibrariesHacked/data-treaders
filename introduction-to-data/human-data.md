@@ -39,5 +39,5 @@ Key points
 Source Material
 ---------------
 
-Adapted from [BetaNYC 2017] (http://bit.ly/opendata_offline) Creative Commons 4.0 - Attribution - Share-alike 
+Adapted from [BetaNYC 2017](http://bit.ly/opendata_offline) Creative Commons 4.0 - Attribution - Share-alike 
 
