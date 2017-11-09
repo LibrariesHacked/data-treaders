@@ -23,7 +23,7 @@ We will be separating into groups of 8-10.
 
 ### Part A: Becoming data 5 minutes
 
-Using the titles/items in catalogue data provided, choose one row and fill in the printed data sheetpaying attention to how the data is formatted
+Using the titles/items in catalogue data provided, choose one row and fill in the printed data sheet paying attention to how the data is formatted
 Each person will represent one title in the library catalogue
 
 ### B: Human data 15 minutes
