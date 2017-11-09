@@ -1,5 +1,4 @@
-## Human data datasheet 
-Print version
+## Human data datasheet Print version
 
 Newcastle Libraries Items/titles in catalogue data  
 
@@ -8,7 +7,7 @@ Data can be found here:
 
 | | |
 |:---------| :-------------|
-| Item | |
+| Item |                       |
 | RCN  | |
 | catego | |
 | text | |
