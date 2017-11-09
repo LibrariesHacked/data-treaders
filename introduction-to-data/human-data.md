@@ -21,7 +21,7 @@ Task
 
 We will be separating into groups of 8-10.
 
-### Part A: Becomin data 5 minutes
+### Part A: Becoming data 5 minutes
 
 Using the titles/items in catalogue data provided, choose one row and fill in the printed data sheetpaying attention to how the data is formatted
 Each person will represent one title in the library catalogue
@@ -39,5 +39,5 @@ Key points
 Source Material
 ---------------
 
-Adapted from [BetaNYC 2017] http://bit.ly/opendata_offline Creative Commons 4.0 - Attribution - Share-alike 
+Adapted from [BetaNYC 2017] (http://bit.ly/opendata_offline) Creative Commons 4.0 - Attribution - Share-alike 
 
