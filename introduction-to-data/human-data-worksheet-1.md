@@ -35,6 +35,10 @@ To do so, we need to understand the fundamentals of data analysis: Sort, Filter,
 
 **Unique Identifier (item)** : A unique identifier (UID) is a numeric or alphanumeric string that is associated with a single entity within a given system. UIDs make it possible to address that entity, so that it can be accessed and interacted with.
 
+Source Material
+---------------
+
+Adapted from [BetaNYC 2017](http://bit.ly/opendata_offline) Creative Commons 4.0 - Attribution - Share-alike 
 
 
 
