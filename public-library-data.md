@@ -59,7 +59,7 @@ Public Libraries UK
 | North Lincolnshire | | |
 | North Somerset |Library locations, mobile library stops and days | [DataShare North Somerset](http://data.n-somerset.gov.uk/View/culture-leisure-and-heritage)|
 | North Tyneside | | |
-| North Yorkshire | | |
+| North Yorkshire | Library locations, PC sessions| [Data North Yorkshire](http://hub.datanorthyorkshire.org/dataset/libraries#)|
 | Northamptonshire | | |
 | Northumberland | | |
 | Nottingham City | | |
