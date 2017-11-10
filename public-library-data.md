@@ -52,12 +52,12 @@ Public Libraries UK
 | Newcastle |Library locations, usage, loans, titles in catalogue, items in catalogue, energy consumption| [Council website](https://www.newcastle.gov.uk/your-council-and-democracy/open-data-and-access-information/open-data/data-sets/libraries-data-sets) [GitHub](https://github.com/ToonLibraries)|
 | Newham | | |
 | Newport | | |
-| Norfolk | Library locations |[data.gov.uk](https://data.gov.uk/dataset/norfolk-libraries) |
-| North Ayrshire | | |
+| Norfolk | Library locations |[Data.gov.uk](https://data.gov.uk/dataset/norfolk-libraries) |
+| North Ayrshire | Library locations | [Data.gov.uk](https://data.gov.uk/dataset/libraries12) |
 | North East Lincolnshire | | |
 | North Lanarkshire | | |
 | North Lincolnshire | | |
-| North Somerset | | |
+| North Somerset |Library locations, mobile library stops and days | [DataShare North Somerset](http://data.n-somerset.gov.uk/View/culture-leisure-and-heritage)|
 | North Tyneside | | |
 | North Yorkshire | | |
 | Northamptonshire | | |
