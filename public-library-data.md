@@ -26,7 +26,7 @@ Public Libraries UK
 | Islington | | |
 | Jersey | | |
 | Kensington and Chelsea | | |
-| Kent | Use of Libraries, location if libraries (Data.gov.uk)| [Council website](https://www.kent.gov.uk/about-the-council/information-and-data/data-about-the-council/statistics-for-libraries-registrations-and-archives) [data.gov.uk](https://data.gov.uk/dataset/kent-county-council-libraries1)|
+| Kent | Use of Libraries, location of libraries (Data.gov.uk)| [Council website](https://www.kent.gov.uk/about-the-council/information-and-data/data-about-the-council/statistics-for-libraries-registrations-and-archives) [data.gov.uk](https://data.gov.uk/dataset/kent-county-council-libraries1)|
 | Kingston | Overdue library items| [Council website](https://www.kingston.gov.uk/info/200278/freedom_of_information/874/open_data_data_sets_and_the_transparency_code)|
 | Kirklees | | |
 | Knowsley | | |
@@ -52,7 +52,7 @@ Public Libraries UK
 | Newcastle |Library locations, usage, loans, titles in catalogue, items in catalogue, energy consumption| [Council website](https://www.newcastle.gov.uk/your-council-and-democracy/open-data-and-access-information/open-data/data-sets/libraries-data-sets) [GitHub](https://github.com/ToonLibraries)|
 | Newham | | |
 | Newport | | |
-| Norfolk | | |
+| Norfolk | Library locations |[data.gov.uk](https://data.gov.uk/dataset/norfolk-libraries) |
 | North Ayrshire | | |
 | North East Lincolnshire | | |
 | North Lanarkshire | | |
