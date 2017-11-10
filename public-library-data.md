@@ -21,13 +21,13 @@ Public Libraries UK
 | East Sussex | Locations of libraries and mobile library stops  [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=east-sussex-county-council)
 | Edinburgh | Locations of libraries and  mobile library stops [Edinburgh Open Data](data.edinburghopendata.info//dataset?q=libraries)
 | Hackney | Locations of libraries | [MapHackney](http://www.map.hackney.gov.uk/lbhackneymap/)
-| Hampshire | Locations of libraries | Council website (https://www.hants.gov.uk/aboutthecouncil/informationandstats/opendata/opendatasearch/libraries)
+| Hampshire | Locations of libraries | [Council website](https://www.hants.gov.uk/aboutthecouncil/informationandstats/opendata/opendatasearch/libraries)
 | Isle of Man | | |
 | Islington | | |
 | Jersey | | |
 | Kensington and Chelsea | | |
-| Kent | | |
-| Kingston | | |
+| Kent | Use of Libraries | [Council website](https://www.kent.gov.uk/about-the-council/information-and-data/data-about-the-council/statistics-for-libraries-registrations-and-archives)|
+| Kingston | Overdue library items| [Council website](https://www.kingston.gov.uk/info/200278/freedom_of_information/874/open_data_data_sets_and_the_transparency_code)|
 | Kirklees | | |
 | Knowsley | | |
 | Lambeth | | |
