@@ -62,10 +62,10 @@ Public Libraries UK
 | North Yorkshire | Library locations, PC sessions| [Data North Yorkshire](http://hub.datanorthyorkshire.org/dataset/libraries#)|
 | Northamptonshire | | |
 | Northumberland | | |
-| Nottingham City | | |
+| Nottingham City |Library locations | [Open Data Nottingham](http://www.opendatanottingham.org.uk/dataset.aspx?id=1)|
 | Nottinghamshire | | |
-| Northern Ireland | | |
-| Oldham | | |
+| Northern Ireland | Library locations| [OpenDataNI](https://www.opendatani.gov.uk/dataset/library-locations-ni)|
+| Oldham | Library locations|[Data.gov.uk](https://data.gov.uk/dataset/libraries9)|
 | Orkney | | |
 | Oxfordshire | | |
 | Pembrokeshire | | |
