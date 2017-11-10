@@ -45,11 +45,11 @@ Public Libraries UK
 | Merton | | |
 | Middlesbrough | | |
 | Midlothian | | |
-| Milton Keynes | | |
+| Milton Keynes |Library locations| [MK DataHub](https://datahub.mksmart.org/data-catalogue/?txt=libraries)|
 | Monmouthshire | | |
 | Moray | | |
 | Neath Port Talbot | | |
-| Newcastle | | |
+| Newcastle |Library locations, usage, loans, titles in catalogue, items in catalogue, energy consumption| [Council website](https://www.newcastle.gov.uk/your-council-and-democracy/open-data-and-access-information/open-data/data-sets/libraries-data-sets) [GitHUb](https://github.com/ToonLibraries)|
 | Newham | | |
 | Newport | | |
 | Norfolk | | |
