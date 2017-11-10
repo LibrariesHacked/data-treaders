@@ -84,7 +84,7 @@ Public Libraries UK
 | Rochdale | | |
 | Rotherham | | |
 | Rutland | | |
-| Salford | | |
+| Salford |Library locations|[Salford Data Quay](https://salforddataquay.uk/dataset/libraries-in-salford)|
 | Sandwell | | |
 | Scottish Borders | | |
 | Sefton | | |
