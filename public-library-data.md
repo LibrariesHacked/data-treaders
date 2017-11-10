@@ -18,8 +18,8 @@ Public Libraries UK
 | Cheshire West and Chester | Library addresses | [Council Website](http://inside.cheshirewestandchester.gov.uk/find_out_more/datasets_and_statistics/opendata/libraries) |
 | Dorset | County library blog RSS feed | [Council Website](https://www.dorsetforyou.gov.uk/opendata/rss) |
 | Durham | Locations of libraries | [Data.gov.uk](https://data.gov.uk/dataset/public-libraries)
-| East Sussex | Locations of libraries and mobile library stops  [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=east-sussex-county-council)
-| Edinburgh | Locations of libraries and  mobile library stops [Edinburgh Open Data](data.edinburghopendata.info//dataset?q=libraries)
+| East Sussex | Locations of libraries and mobile library stops | [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=east-sussex-county-council)
+| Edinburgh | Locations of libraries and  mobile library stops | [Edinburgh Open Data](data.edinburghopendata.info//dataset?q=libraries)
 | Hackney | Locations of libraries | [MapHackney](http://www.map.hackney.gov.uk/lbhackneymap/)
 | Hampshire | Locations of libraries | [Council website](https://www.hants.gov.uk/aboutthecouncil/informationandstats/opendata/opendatasearch/libraries)
 | Isle of Man | | |
