@@ -71,12 +71,12 @@ Public Libraries UK
 | Pembrokeshire | | |
 | Perth and Kinross | | |
 | Peterborough | | |
-| Plymouth | | |
+| Plymouth |Library locations |[Plymouth.TheData.Place](https://plymouth.thedata.place/dataset/plymouth-libraries-wgs84) |
 | Poole | | |
 | Portsmouth | | |
 | Powys | | |
 | Reading | | |
-| Redbridge | | |
+| Redbridge |Library issues, visits and usage data 2012-13 |[DataShare Redbridge](http://data.redbridge.gov.uk/view/culture-and-leisure)|
 | Redcar & Cleveland | | |
 | Renfrewshire | | |
 | Rhondda Cynon Taf | | |
