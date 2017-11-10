@@ -49,7 +49,7 @@ Public Libraries UK
 | Monmouthshire | | |
 | Moray | | |
 | Neath Port Talbot | | |
-| Newcastle |Library locations, usage, loans, titles in catalogue, items in catalogue, energy consumption| [Council website](https://www.newcastle.gov.uk/your-council-and-democracy/open-data-and-access-information/open-data/data-sets/libraries-data-sets) [GitHUb](https://github.com/ToonLibraries)|
+| Newcastle |Library locations, usage, loans, titles in catalogue, items in catalogue, energy consumption| [Council website](https://www.newcastle.gov.uk/your-council-and-democracy/open-data-and-access-information/open-data/data-sets/libraries-data-sets) [GitHub](https://github.com/ToonLibraries)|
 | Newham | | |
 | Newport | | |
 | Norfolk | | |
