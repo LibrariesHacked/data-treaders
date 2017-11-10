@@ -32,14 +32,14 @@ Public Libraries UK
 | Knowsley | | |
 | Lambeth | | |
 | Lancashire | | |
-| Leeds | | |
+| Leeds | Library locations, loans, visits | [Data Mill North](https://datamillnorth.org/publisher/leedscitycouncil)|
 | Leicester City | | |
 | Leicestershire | | |
 | Lewisham | | |
 | Lincolnshire | | |
 | Liverpool | | |
 | Luton | | |
-| Manchester | | |
+| Manchester |Key performance information 2016 |[Manchester Open Data website](http://www.manchester.gov.uk/open/downloads/file/361/libraries_key_performance_information_-_2016)|
 | Medway | | |
 | Merthyr Tydfil | | |
 | Merton | | |
