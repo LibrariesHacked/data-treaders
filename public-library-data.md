@@ -99,7 +99,7 @@ Public Libraries UK
 | South Lanarkshire | | |
 | South Tyneside | | |
 | Southampton | | |
-| Southend on Sea |Library locations |[Data.gov.uk]|(https://data.gov.uk/dataset/southend-libraries)|
+| Southend on Sea |Library locations |[Data.gov.uk](https://data.gov.uk/dataset/southend-libraries)|
 | Southwark | | |
 | St Helens | | |
 | Staffordshire | | |
@@ -109,7 +109,7 @@ Public Libraries UK
 | Stoke on Trent | | |
 | Suffolk | | |
 | Sunderland | | |
-| Surrey |Library locations|[Council website]|(http://data.surreycc.gov.uk/data/people-and-community/libraries)|
+| Surrey |Library locations|[Council website](http://data.surreycc.gov.uk/data/people-and-community/libraries)|
 | Sutton | | |
 | Swansea | | |
 | Swindon | | |
