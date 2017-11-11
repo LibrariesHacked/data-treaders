@@ -90,16 +90,16 @@ Public Libraries UK
 | Sefton | | |
 | Sheffield | | |
 | Shetland | | |
-| Shropshire | | |
+| Shropshire |Library locations |[Data.gov.uk](https://data.gov.uk/dataset/libraries)|
 | Slough | | |
 | Solihull | | |
 | Somerset | | |
-| South Ayrshire | | |
+| South Ayrshire |New titles (RSS)|[Council website](http://www.south-ayrshire.gov.uk/opendata/)|
 | South Gloucestershire | | |
 | South Lanarkshire | | |
 | South Tyneside | | |
 | Southampton | | |
-| Southend on Sea | | |
+| Southend on Sea |Library locations |[Data.gov.uk]|(https://data.gov.uk/dataset/southend-libraries)|
 | Southwark | | |
 | St Helens | | |
 | Staffordshire | | |
@@ -109,7 +109,7 @@ Public Libraries UK
 | Stoke on Trent | | |
 | Suffolk | | |
 | Sunderland | | |
-| Surrey | | |
+| Surrey |Library locations|[Council website]|(http://data.surreycc.gov.uk/data/people-and-community/libraries)|
 | Sutton | | |
 | Swansea | | |
 | Swindon | | |
