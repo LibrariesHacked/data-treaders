@@ -13,7 +13,7 @@ Public Libraries UK
 | Bath and North East Somerset | Loans (2014), libraries, mobile libraries | [Bath: Hacked open data](https://data.bathhacked.org/browse?q=libraries&sortBy=relevance) |
 | Brent | Active borrowers included in Ward Profiles | [Brent Intelligence](https://intelligence.brent.gov.uk/Pages/Search.aspx?k=libraries) |
 | Brighton and Hove | Location of libraries | [Council Website](https://www.brighton-hove.gov.uk/content/council-and-democracy/council-finance-and-data) |
-| Caerphilly | Locations of libraries  | [Coucil Website](http://www.caerphilly.gov.uk/My-Council/Data-protection-and-freedom-of-information/Datasets/Libraries-datasets) |
+| Caerphilly | Locations of libraries  | [Council Website](http://www.caerphilly.gov.uk/My-Council/Data-protection-and-freedom-of-information/Datasets/Libraries-datasets) |
 | Calderdale | Locations, visits, running costs, reading groups | [Dataworks portal](https://dataworks.calderdale.gov.uk/dataset?q=libraries) |
 | Cheshire West and Chester | Library addresses | [Council Website](http://inside.cheshirewestandchester.gov.uk/find_out_more/datasets_and_statistics/opendata/libraries) |
 | Dorset | County library blog RSS feed | [Council Website](https://www.dorsetforyou.gov.uk/opendata/rss) |
