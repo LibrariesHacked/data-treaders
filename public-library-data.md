@@ -110,35 +110,35 @@ Public Libraries UK
 | Suffolk | | |
 | Sunderland | | |
 | Surrey |Library locations|[Council website](http://data.surreycc.gov.uk/data/people-and-community/libraries)|
-| Sutton | | |
-| Swansea | | |
-| Swindon | | |
-| Tameside | | |
-| Telford and Wrekin | | |
-| Thurrock | | |
-| Torbay | | |
-| Torfaen | | |
-| Tower Hamlets | | |
-| Trafford | | |
-| Vale of Glamorgan | | |
-| Wakefield | | |
-| Walsall | | |
-| Waltham Forest | | |
-| Wandsworth | | |
-| Warrington | | |
-| Warwickshire | | |
-| West Berkshire | | |
-| West Dunbartonshire | | |
-| West Lothian | | |
-| West Sussex | | |
-| Western Isles | | |
-| Westminster | | |
-| Wigan | | |
-| Wiltshire | | |
-| Windsor & Maidenhead | | |
-| Wirral | | |
-| Wokingham | | |
-| Wolverhampton | | |
-| Worcestershire | | |
-| Wrexham  | | |
-| York City | | |
+| Sutton | Locations of libraries, catalogue API (not working?) | [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=london-borough-of-sutton) |
+| Swansea | None | |
+| Swindon | None | |
+| Tameside | None | |
+| Telford and Wrekin | Issues, visits, enquiries, computers, hours, premises, costs. | [Council site](http://www.telford.gov.uk/downloads/file/3870/library_services_data) |
+| Thurrock | Locations of libraries | [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=thurrock-council) |
+| Torbay | None | |
+| Torfaen | None | |
+| Tower Hamlets | None | |
+| Trafford | Library loans by category | [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=trafford-council) |
+| Vale of Glamorgan | None | |
+| Wakefield | None | |
+| Walsall | None | |
+| Waltham Forest | None | |
+| Wandsworth | None | |
+| Warrington | None | |
+| Warwickshire | Locations of libraries, new items in catalogue, library visits/loans/PC bookings | [Warwickshire open data](https://apps.warwickshire.gov.uk/OpenData/datasets) |
+| West Berkshire | None | |
+| West Dunbartonshire | None | |
+| West Lothian | None | |
+| West Sussex | None | |
+| Western Isles | None | |
+| Westminster | None | |
+| Wigan | None | |
+| Wiltshire | Library news RSS | [Library news RSS](http://www.wiltshire.gov.uk/librarynewsrss.xml) |
+| Windsor & Maidenhead | None | |
+| Wirral | None | |
+| Wokingham | None | |
+| Wolverhampton | Locations of libraries | [Data.gov.uk](https://data.gov.uk/dataset/wolverhampton-libraries) |
+| Worcestershire | None | |
+| Wrexham  | None | |
+| York City | Locations of library, Library visits | [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=city-of-york-council) |
