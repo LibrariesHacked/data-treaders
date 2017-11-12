@@ -3,6 +3,8 @@ Libraries open data
 
 What open data is currently available for libraries? Here's a selection of links that may inform discussions (or workshops) on the day.
 
+If there's any library data we've missed, please [let us know](mailto:info@datatreaders.co.uk)
+
 Public Libraries UK
 -------------------
 
