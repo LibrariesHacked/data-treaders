@@ -4,7 +4,7 @@ The day
 ### Timetable
 
 | Time | Room 1 | Room 2 | Room 3 |
-| ---- | -------------------- | ------ | ------ |
+| ---- | ------ | ------ | ------ |
 | 9:30 | Arrivals |  |  |
 | 9:40 | Introductions, housekeeping, and session pitches |  |  |
 | 10:00 | Introduction to data |  | Breakout room |
