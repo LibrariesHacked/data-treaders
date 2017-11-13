@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [The Day](theday.md)
 * [Background](background.md)
+* [Library Data](public-libary-data.md)
 
 #### Introduction to data session
 

@@ -17,7 +17,7 @@ The day
 | 15:00 | Tea break |  |  |
 | 15:15 | Session 6 | Session 7 |  |
 | 16:00 | Group feedback |  |  |
-| 16:30 | Home time | | |
+| 16:30 | Home time |  |  |
 
 ### Equipment
 
