@@ -10,26 +10,99 @@ Public Libraries UK
 
 | Authority | Datasets | Link |
 | --------- | -------- | ---- |
+| Aberdeen City | None | |
+| Aberdeenshire | None | |
+| Sir Ynys Mon - Isle of Anglesey | None | |
 | Angus | Mobile libraries timetable | [Open Data Portal](http://opendata.angus.gov.uk/dataset/angusalive-mobile-libraries) |
+| Argyll and Bute | None | |
+| Barking and Dagenham | None | |
 | Barnet | Loans, locations, and visitors. Not updated for couple of years | [Open Data Portal](https://open.barnet.gov.uk/dataset?q=libraries) |
+| Barnsley | None | |
 | Bath and North East Somerset | Loans (2014), libraries, mobile libraries | [Bath: Hacked open data](https://data.bathhacked.org/browse?q=libraries&sortBy=relevance) |
+| Bedford | None | |
+| Bexley | None | |
+| Birmingham | None | |
+| Blackburn with Darwen | None | |
+| Blackpool | None | |
+| Blaenau Gwent | None | |
+| Bolton | None | |
+| Bournemouth | None | |
+| Bracknell Forest | None | |
+| Bradford | None | |
 | Brent | Active borrowers included in Ward Profiles | [Brent Intelligence](https://intelligence.brent.gov.uk/Pages/Search.aspx?k=libraries) |
+| Pen-y-bont ar Ogwr - Bridgend | None | |
 | Brighton and Hove | Location of libraries | [Council Website](https://www.brighton-hove.gov.uk/content/council-and-democracy/council-finance-and-data) |
+| Bristol City | None | |
+| Bromley | None | |
+| Buckinghamshire | None | |
+| Bury | None | |
 | Caerphilly | Locations of libraries  | [Council Website](http://www.caerphilly.gov.uk/My-Council/Data-protection-and-freedom-of-information/Datasets/Libraries-datasets) |
 | Calderdale | Locations, visits, running costs, reading groups | [Dataworks portal](https://dataworks.calderdale.gov.uk/dataset?q=libraries) |
+| Cambridgeshire | None | |
+| Camden | None | |
+| Caerdydd - Cardiff | None | |
+| Sir Gaerfyrddin - Carmarthenshire | None | |
+| Central Bedfordshire | None | |
+| Sir Ceredigion - Ceredigion | None | |
+| Cheshire East | None | |
 | Cheshire West and Chester | Library addresses | [Council Website](http://inside.cheshirewestandchester.gov.uk/find_out_more/datasets_and_statistics/opendata/libraries) |
+| City of London | None | |
+| Clackmannanshire | None | |
+| Conwy | None | |
+| Cornwall | None | |
+| Coventry | None | |
+| Croydon | None | |
+| Cumbria | None | |
+| Darlington | None | |
+| Sir Ddinbych - Denbighshire | None | |
+| Derby City | None | |
+| Derbyshire | None | |
+| Devon | None | |
+| Doncaster | None | |
 | Dorset | County library blog RSS feed | [Council Website](https://www.dorsetforyou.gov.uk/opendata/rss) |
+| Dudley | None | |
+| Dumfries and Galloway | None | |
+| Dundee City | None | |
 | Durham | Locations of libraries | [Data.gov.uk](https://data.gov.uk/dataset/public-libraries)
+| Ealing | None | |
+| East Ayrshire | None | |
+| East Dunbartonshire | None | |
+| East Lothian | None | |
+| East Renfrewshire | None | |
+| East Riding of Yorkshire | None | |
 | East Sussex | Locations of libraries and mobile library stops | [Data.gov.uk](https://data.gov.uk/data/search?q=libraries&publisher=east-sussex-county-council)
 | Edinburgh | Locations of libraries and  mobile library stops | [Edinburgh Open Data](data.edinburghopendata.info//dataset?q=libraries)
+| Enfield | None | |
+| Essex | None | |
+| Falkirk | None | |
+| Fife | None | |
+| Sir y Fflint - Flintshire | None | |
+| Gateshead | None | |
+| Glasgow | None | |
+| Gloucestershire | None | |
+| Greenwich | None | |
+| Gwynedd | None | |
 | Hackney | Locations of libraries | [MapHackney](http://www.map.hackney.gov.uk/lbhackneymap/)
-| Hampshire | Locations of libraries | [Council website](https://www.hants.gov.uk/aboutthecouncil/informationandstats/opendata/opendatasearch/libraries)
-| Isle of Man |None | |
+| Halton | None | |
+| Hammersmith and Fulham | None | |
+| Hampshire | Locations of libraries | [Council website](https://www.hants.gov.uk/aboutthecouncil/informationandstats/opendata/opendatasearch/libraries) |
+| Haringey | None | |
+| Harrow | None | |
+| Hartlepool | None | |
+| Havering | None | |
+| Herefordshire | None | |
+| Hertfordshire | None | |
+| Highland | None | |
+| Hillingdon | None | |
+| Hillingdon | None | |
+| Hounslow | None| |
+| Inverclyde | None| |
+| Isle of Wight | None| |
 | Islington | None| |
-| Jersey |None | |
 | Kensington and Chelsea | None| |
 | Kent | Use of Libraries, location of libraries (Data.gov.uk)| [Council website](https://www.kent.gov.uk/about-the-council/information-and-data/data-about-the-council/statistics-for-libraries-registrations-and-archives) [data.gov.uk](https://data.gov.uk/dataset/kent-county-council-libraries1)|
 | Kingston | Overdue library items| [Council website](https://www.kingston.gov.uk/info/200278/freedom_of_information/874/open_data_data_sets_and_the_transparency_code)|
+| Kingston upon Hull | None| |
 | Kirklees | None| |
 | Knowsley |None | |
 | Lambeth | None| |
