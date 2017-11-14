@@ -19,7 +19,7 @@ Attributes or values in the catalogue data
 | branch |current library or service the item is allocated to |
 | date added | date item was added to catalogue |
 | issues | number of times the item has been borrowed |
-| renewals | nnumber of times the loan to a borrower has been extended |
+| renewals | number of times the loan to a borrower has been extended |
 
 ## Questions 
 
