@@ -3,6 +3,8 @@ The day
 
 ### Timetable
 
+Sessions are open for anyone to suggest discussions they'd like to talk about. We'll update the timetable on the day.
+
 | Time | Room 1 | Room 2 | Room 3 |
 | ---- | ------ | ------ | ------ |
 | 9:30 | Arrivals |  |  |
@@ -23,7 +25,6 @@ The day
 
 Both of the practical sessions will include lessons (Introduction to Data and OpenRefine) where a laptop would be useful. However, this will only be for a relatively short part of the day, so do feel free to come along without one.
 
-
 #### Introduction to Data
 
 Details coming soon
@@ -35,5 +36,3 @@ Details coming soon
 ### Refreshments
 
 Refreshments, including lunch, will be provided throughout the day.
-
-

@@ -1,8 +1,8 @@
 Voyage of the Data Treader
 ==========================
 
-| When | Monday 20th November 2017 |
-| ---- | ------------------------- |
+| When | Monday 20th November 2017 (9:30am - 4:30pm) |
+| ---- | ------------------------------------------- |
 | Where | Liverpool Central Library [View on map](https://maps.google.com/maps?hl=en-GB&q=53.40993169999999,-2.980787100000043&sll=53.40993169999999,-2.980787100000043&z=13&markers=53.40993169999999,-2.980787100000043)  |
 | How | Sign up to [Voyage of the Data Treader here](https://www.eventbrite.co.uk/e/voyage-of-the-data-treader-library-data-camp-2017-registration-37308706345) |
 | Twitter | [#DataTreaders](https://twitter.com/search?q=%23datatreaders) |
