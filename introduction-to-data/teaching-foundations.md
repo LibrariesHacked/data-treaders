@@ -1,7 +1,7 @@
 Teaching. Foundations
 =====================
 
-Comming soon
+Coming soon
 
 Source Material
 ---------------
