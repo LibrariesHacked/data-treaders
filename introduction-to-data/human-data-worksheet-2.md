@@ -5,16 +5,24 @@ Newcastle Libraries Items/titles in catalogue data
 Data can be found here: 
 
 
+ttributes or values in the catalogue data 
+
 | | |
 |:---------| :-------------|
-| Item |                       |
+| Item | |
 | RCN  | |
-| catego | |
-| text | |
-| homebr | |
-| name | |
-| added | |
-| issues current branch | |
+| published year |  |
+| author | |
+| title |  |
+| classification | |
+| isbn |  |
+| edition |  |
+| language | |
+| price |  |
+| branch | |
+| date added | |
+| issues |  |
+| renewals |  |
 
 
 Source Material
