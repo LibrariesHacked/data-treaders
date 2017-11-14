@@ -9,7 +9,7 @@ Attributes or values in the catalogue data
 | Item | unique number allocated to each copy on the system |
 | RCN  | control number, unique number attached to title by the system when reading ISBN barcode (N* number if no barcode)|
 | published year | year the title was published |
-| author | name of t |he main author of the work |
+| author | name of the main author of the work |
 | title | main title as on title page or equivalent |
 | classification | main classification allocated by library staff or by the supplier for the title |
 | isbn | International Standard Book Number, attached to title by publisher |
