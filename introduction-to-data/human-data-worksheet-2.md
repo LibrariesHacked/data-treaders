@@ -2,7 +2,7 @@
 
 Newcastle Libraries Items/titles in catalogue data  
 
-Data can be found here: [bit.ly/LibraryHumanData](http://bit.ly/LibraryHumanData)
+Data can be found here: [bit.ly/LibraryData](http://bit.ly/LibraryData)
 
 
 ttributes or values in the catalogue data 
