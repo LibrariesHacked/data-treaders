@@ -2,6 +2,8 @@
 
 Using Newcastle Libraries Items/Titles in Catalogue dataset, participants will become that data.
 
+Data can be found here: [bit.ly/LibraryData](http://bit.ly/LibraryData)
+
 Attributes or values in the catalogue data 
 
 | | |
