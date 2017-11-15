@@ -19,7 +19,7 @@ C288163300,1590593324,0,"Stephens, Jon",Beginning MySQL Database design and opti
 C288506800,754633888,2006,"Dewe, Michael",Planning public library buildings : concepts and issues for the librarian,27.4,9780754633884,Unknown,eng,60,CITY,20060623,0,0
 C291381300,N000136903,1971,"Watson, W. Malcolm","Librarians for libraries in educational institutions : the CNAA degree in librarianship being offered at the Department of Librarianship, Newcastle upon Tyne Polytechnic",L020.7,N000136903,Unknown,Unknown,0,LOCAL STUDIES,20070503,0,0
 C291382800,853621519,1973,Unknown,"The Art of the librarian : a collection of original papers from the Library of the University of Newcastle upon Tyne",L020.4,9780853621515,Unknown,Unknown,0,LOCAL STUDIES,20070503,0,0
-C291388200,N000054279,0,Chartered Institute of Library and Information Professionals,Local studies librarian,L026,D0081852,Unknown,Unknown,0,LOCAL STUDIES,20070510,0,0
+C291388200,N000054279,0,CILIP,Local studies librarian,L026,D0081852,Unknown,Unknown,0,LOCAL STUDIES,20070510,0,0
 C340505500,6716822,1998,"Lewis, C. S.",Last battle,JF,9780006716822,Colour,eng,6.99,CITY,20010108,31,7
 C347344300,744570891,2006,"Cousins, Lucy",Maisy goes to the library,JF,9780744570892,Unknown,eng,4.99,GOSFORTH,20110811,59,5
 C430102500,1904642322,2004,"Reid, Sue",Voyages of Odysseus,J398.209,9781904642329,Unknown,eng,5.99,KENTON,20050706,14,4
@@ -56,7 +56,7 @@ C450536800,1856046559,2008,"Zeng, Marcia Lei",Metadata,25.3,9781856046558,Unknow
 C450539800,1856046176,2008,"Chowdhury, G. G.",Librarianship : an introduction,20,9781856046176,Unknown,eng,39.95,CITY,20081119,9,54
 C450540400,1856046273,2008,"Bantin, Philip C.",Understanding data and information systems for recordkeeping,651.502,9781856046275,Unknown,eng,44.95,BUSINESS INTELLECTUAL PROPERTY CENTRE,20081119,4,1
 C450541000,1856046060,2007,"Brophy, Peter",Library in the twenty-first century,25.52,9781856046060,2nd,eng,39.95,CITY,20081119,12,27
-C450541500,1856046230,2008,Centre for Research in Library a,"Libraries without walls 7 : exploring 'anytime', 'anywhere' delivery of library services : proceedings of an international conference held on 14-18 September 2007, organized by the Centre for Research in Library and Information Management (CERLIM), Manchester Metropolitan University",25.502,9781856046237,Unknown,eng,44.95,CITY,20081119,9,20
+C450541500,1856046230,2008,Centre for Research in Library a,"Libraries without walls 7",25.502,9781856046237,Unknown,eng,44.95,CITY,20081119,9,20
 C450560200,N000209096,2008,"Horak, Ray",Telecommunications and data communications handbook,621.382,9780470396070,Unknown,eng,52.95,CITY,20081127,12,39
 C451459400,N000161042,2009,"McMenemy, David",Public library,27.4,9781856046169,Unknown,eng,39.95,CITY,20090121,9,67
 C451998000,750254602,2008,"Orme, David",Spider in the bath!,FML,9780750254601,Unknown,eng,8.99,GOSFORTH,20090318,76,11
@@ -70,11 +70,11 @@ C457455300,140524075X,2008,"Tomlinson, Jill",Owl who was afraid of the dark,PICT
 C458462100,N000221697,2009,"Engard, Nicole C.",Library mashups : exploring new ways to deliver library data,20.2,9781573873727,Unknown,eng,39.5,CITY,20091127,9,25
 C458714900,7281420,2009,"Agassi, Andre",Open : an autobiography,920 AGA,9780007281428,Unknown,eng,20,GOSFORTH,20091209,24,10
 C458797300,99507021,2009,"Baker, Stephen","They've got your number : data, digits and destiny : how the numerati are changing our lives",303.483,9780099507024,Unknown,eng,8.99,CITY,20091207,17,25
-C460427000,754672735,2009,"Matthews, Graham","Disaster management in archives, libraries and m",27.006,9780754672739,Unknown,eng,55,SUPPORT SERVICES,20100320,0,0
+C460427000,754672735,2009,"Matthews, Graham","Disaster management in archives, libraries and museums",27.006,9780754672739,Unknown,eng,55,SUPPORT SERVICES,20100320,0,0
 C462051900,1849381380,2010,"Reynolds, Anthony",Remarkable life of Leonard Cohen,920COH,9781849381383,Unknown,eng,19.95,CITY,20101027,22,33
 C462057600,863212670,2010,"Smith, Lauren",Fines and charges in public libraries in England,27.442,9780863212673,23rd,eng,0,SUPPORT SERVICES,20101104,0,0
 C462128100,7366221,2010,"Lewis, C. S.",Voyage of the Dawn Treader movie storybook,823.912J,9780007366224,Unknown,eng,5.99,GOSFORTH,20101112,49,9
-C462778400,340953950,2009,"Myron, Vicki",Dewey : the small-town library cat who touched t,636.8,9780340953952,Unknown,eng,6.99,GOSFORTH,20110307,10,0
+C462778400,340953950,2009,"Myron, Vicki",Dewey : the small-town library cat who touched the world,636.8,9780340953952,Unknown,eng,6.99,GOSFORTH,20110307,10,0
 C463080900,1445845628,2012,"Gray, Rebecca",Library book,27.4,9781445845623,Unknown,eng,35.45,KENTON,20120713,5,1
 C467317500,1421541254,2012,"Kishimoto, Masashi",Naruto : The Official Character Data Book,J741.595,9781421541259,Unknown,eng,9.99,CITY,20120926,24,6
 C468866100,224090631,2012,"Simmons, Sylvie",I'm your man : the life of Leonard Cohen,920 COH,9780224090636,Unknown,eng,20,GOSFORTH,20121114,15,9
@@ -84,14 +84,13 @@ C470686000,749472111,2015,"Strong, Colin",Humanizing big data : marketing at the
 C471613100,N000243642,2013,"Diggle, Peter",Analysis of longitudinal data,519.535,9780199676750,2nd,eng,29.99,CITY,20131115,2,7
 C471863000,1848547927,2013,"Mayer-Schonberger, Viktor",Big data : a revolution that will transform how,306.46,9781848547926,Unknown,eng,9.99,KENTON,20140308,3,5
 C473393000,N000248025,2014,"Engard, Nicole C.",More library mashups : exploring new ways to del,20.285,9781783300358,Unknown,eng,49.95,CITY,20150302,2,18
-C474281500,N000249965,2013,"Kimball, Ralph",Data warehouse toolkit : the definitive guide to,5.74,9781118530801,3rd,eng,42.5,CITY,20150921,1,15
+C474281500,N000249965,2013,"Kimball, Ralph",Data warehouse toolkit : the definitive guide to dimensional modeling,5.74,9781118530801,3rd,eng,42.5,CITY,20150921,1,15
 C475167600,1780748361,2016,"Lohr, Steve",Data-ism : inside the big data revolution,658.403,9781780748368,Unknown,eng,9.99,BUSINESS INTELLECTUAL PROPERTY CENTRE,20160202,0,0
-C475289500,N000251577,2016,"Richardson, Andrew",Data-driven graphic design : creative coding for,6.6,9781472578303,Unknown,eng,39.99,CITY,20160229,0,0
+C475289500,N000251577,2016,"Richardson, Andrew",Data-driven graphic design : creative coding for Visual Communication,6.6,9781472578303,Unknown,eng,39.99,CITY,20160229,0,0
 C476266300,1472920058,2016,"Harkness, Timandra",Big data : does size matter?,5.7,9781472920058,Unknown,eng,16.99,CITY,20170125,0,0
 C476283100,1118940016,2015,"Anderson, Alan",Statistics for big data for dummies,5.74,9781118940013,Unknown,eng,16.99,CITY,20170124,0,0
 C476331600,N000255826,2016,"Rice, Robin",Data librarian's handbook,25.002,9781783300471,Unknown,eng,54.95,SUPPORT SERVICES,20170207,1,1
-C476445300,1473630134,2017,"Lindstrom, Martin",Small data : the tiny clues that uncover huge tr,658.834,9781473630130,Unknown,eng,10.99,BUSINESS INTELLECTUAL PROPERTY CENTRE,20170315,0,0
+C476445300,1473630134,2017,"Lindstrom, Martin",Small data : the tiny clues that uncover huge trends,658.834,9781473630130,Unknown,eng,10.99,BUSINESS INTELLECTUAL PROPERTY CENTRE,20170315,0,0
 C705025200,N000251630,2016,"Romijn, Rebecca",Librarians: The complete first season,Unknown,5034741407212,Unknown,eng,14.14,CITY,20160223,9,0
 C809374500,N000200174,2005,"Cohen, Leonard",Essential Leonard Cohen,POP,5099749799523,Unknown,eng,10.25,CITY,20081021,76,5
-CA00000144,N000227538,1737,"Oldys, William",British librarian : exhibiting a compendious rev,10,N000227538,Unknown,Unknown,0,CITY,20110127,0,0
 EO00004422,N000255692,0,"Smith, Ali,",Public library and other stories,823.92,N000255692,Unknown,eng,0,CITY,20161214,0,0
