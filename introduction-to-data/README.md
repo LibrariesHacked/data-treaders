@@ -12,8 +12,8 @@ Timetable
 | ---- | ----------- |
 | 10:00 | Introduction |
 | 10:05 | Group exercise: jargon busting |
-| 10:15 | Group exercise feedback |
-| 10:25 | Teaching: data and automation |
+| 10:20 | Group exercise feedback |
+| 10:30 | Teaching: data and automation |
 | 10:35 | Human data intro |
 | 10:40 | Human data part A |
 | 10:50 | Human data part B |
