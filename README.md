@@ -48,3 +48,5 @@ The Data Treaders are Claire Back (Plymouth Libraries), Aude Charillon (Newcastl
 #### Sponsors
 
 This event is supported by the [Libraries Taskforce](https://librariestaskforce.blog.gov.uk/) and [UKGovCamp](https://www.ukgovcamp.com/2017/10/17/library-data-day/)
+
+![Libraries Taskforce Logo](taskforce.jpg "Libraries Taskforce Logo") ![UKGovCamp Logo](ukgovcamp.png "UKGovCamp Logo")
