@@ -13,7 +13,7 @@ Jargon Busting
 | Average | A number expressing the central or typical value in a set of data, in particular the mode, median, or (most commonly) the mean, which is calculated by dividing the sum of the values in the set by their number. |
 | Algorithm | A list of rules to follow in order to solve a problem. |
 | Big data | Extremely large data sets that may be analysed computationally to reveal patterns, trends, and associations, especially relating to human behaviour and interactions. |
-| Regular expression | A sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text. Instructor: show some examples of regular expressions. |
+| Regular expression | A sequence of symbols and characters expressing a string or pattern to be searched for within a longer piece of text. *Instructor: show some examples of regular expressions* |
 | Data protection | Data protection principles govern how your personal information is used by organisations, businesses or the government. |
 | Open data | Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike. |
 | Aggregation | A process in which information is gathered and expressed in a summary form, for purposes such as statistical analysis. |
@@ -24,17 +24,19 @@ We'll now spend some time on a combination of best practice and generic skills.
 The Computer is Stupid
 ----------------------
 
-This does not mean that the computer isn't useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster, more accurately, and less grudgingly than you or I. Rather when I say that you should keep in mind that the computer is stupid, I mean to say that computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting).
+This does not mean that the computer isn't useful. Given a repetitive task, an enumerative task, or a task that relies on memory, it can produce results faster than you or I. But the computer only does what you tell it to. If it throws up an error it is often not your fault, rather in most cases the computer has failed to interpret what you mean because it can only work with what it knows (ergo, it is bad at interpreting).
 
 This is not to say that the people who told the computer what to tell you when it doesn't know what to do couldn't have done a better job with error messages, for they could. It isn't the computer's fault that it is giving you an archaic and incomprehensible error message, it is a human person's.
+
+To do: put an example of an error message here.
 
 Why take an automated or computational approach?
 ------------------------------------------------
 
-Otherwise known as the *'why not do it manually?'* question. To start with, I'm not anti-manual. I do plenty of things manually that a machine could do in an automated way because either:
+Otherwise known as the *'why not do it manually?'* question. There are still plenty of things that we can do manually that a machine could do in an automated way because either:
 
-- a) I don't know how to automate the task or;
-- b) I’m unlikely to repeat the task and estimate that automating it would take longer
+- a) We don't know how to automate the task or;
+- b) We're unlikely to repeat the task automating it would take longer
 
 However, once you know you'll need to repeat a task, you have a compelling reason to consider automating it. This is one of the main areas in which programmatic ways of doing outside of IT service environments are changing library practice. Andromeda Yelton, a US based librarian closely involved in the Code4Lib movement, put together an excellent American Library Association Library Technology Report called [Coding for Librarians: Learning by Example](https://thatandromeda.github.io/ltr/).
 
@@ -72,7 +74,7 @@ Why? Because computers can process them!
 
 If you want computers to be able to process your stuff, try to get in the habit where possible of using platform-agnostic formats such as *.txt* for notes and *.csv* or *.tsv* for tabulated data (the latter pair are just spreadsheet formats, separated by commas and tabs respectively).
 
-### CSV and text Files
+### CSV and Text Files
 
 A CSV is a comma separated values file which allows data to be saved in a table structured format. CSVs look like a garden-variety spreadsheet but with a **.csv** extension (Traditionally they take the form of a text file containing information separated by commas, hence the name).
 
