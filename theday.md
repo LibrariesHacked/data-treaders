@@ -1,9 +1,7 @@
 The day
 -------
 
-### Timetable
-
-Sessions are open for anyone to suggest discussions they'd like to talk about. We'll update the timetable on the day.
+Sessions are open for anyone to suggest topics they'd like to discuss. We'll update the timetable on the day.
 
 | Time | Room 1 | Room 2 | Room 3 |
 | ---- | ------ | ------ | ------ |
@@ -23,15 +21,15 @@ Sessions are open for anyone to suggest discussions they'd like to talk about. W
 
 ### Equipment
 
-Both of the practical sessions will include lessons (Introduction to Data and OpenRefine) where a laptop would be useful. However, this will only be for a relatively short part of the day, so do feel free to come along without one.
+Both of the practical sessions will include workshops (Introduction to Data, and OpenRefine) where a laptop would be useful. However, do feel free to come along without one if more convenient, there'll be plenty of opportunity to follow along and lots of discussions!
 
 #### Introduction to Data
 
-Details coming soon
+If taking part in this session it would be useful to have spreadsheet software, or access to Google Sheets.
 
 #### OpenRefine
 
-Details coming soon
+If you'd like to take part in the Open Refine workshop, you could install OpenRefine v2.7 in advance from http://openrefine.org/download.html, and download the latest data we'll be using from https://datamillnorth.org/dataset/ncclibs-catalogue-titles. But we'll provide installation support on the day, and there'll be a demonstration of the software if you're not able to install it.
 
 ### Refreshments
 
