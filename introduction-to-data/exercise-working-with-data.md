@@ -10,7 +10,7 @@ Requirements
 Task
 ----
 
-We will be use another example dataset to play with data using spreadsheets.
+We will use another example dataset to play with data using spreadsheets.
 
 - **Newcastle library usage**, released by Newcastle libraries. The file we're using is a combination of issues, visits, and enquiries by month, for each library, from 2008. [Download this dataset](https://raw.githubusercontent.com/LibrariesHacked/data-treaders/master/introduction-to-data/newcastle_usage.csv)
 
