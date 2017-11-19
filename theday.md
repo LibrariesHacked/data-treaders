@@ -21,7 +21,7 @@ Sessions are open for anyone to suggest topics they'd like to discuss. We'll upd
 
 ### Session pitches
 
-You don't have to come with anything prepared, but if there's a topic you'd like to discuss you could think about giving it a title and how explain it in a short pitch (no more than a minute!).
+You don't have to come with anything prepared, but if there's a topic you'd like to discuss you could think about giving it a title and how to explain it in a short pitch (no more than a minute!).
 
 ### Equipment
 
