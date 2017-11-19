@@ -10,9 +10,9 @@ Requirements
 Task
 ----
 
-We will be use another example dataset to have a play with some data using spreadsheets.
+We will be use another example dataset to play with data using spreadsheets.
 
-- **Library usage**, released by Newcastle libraries. This contains number of issues, visits, and enquiries by month, for each library, from 2008. [Download this dataset](https://raw.githubusercontent.com/LibrariesHacked/library-carpentry/master/data/newcastle_usage.csv)
+- **Newcastle library usage**, released by Newcastle libraries. The file we're using is a combination of issues, visits, and enquiries by month, for each library, from 2008. [Download this dataset](https://raw.githubusercontent.com/LibrariesHacked/data-treaders/master/introduction-to-data/newcastle_usage.csv)
 
 The data is released under the Creative Commons CCZero licence.
 
@@ -30,11 +30,11 @@ Issues (*newcastle_usage.csv*):
 Demo
 ----
 
-### Demo Newcastle Libraries usage. Which library has had the highest number of issues since 2008.  How many?
+### Demo. Which library has had the highest number of issues since 2008? How many?
 
-One way of approaching this is to use a Pivot table to group the data by branch. Then display a sum of issues for each branch.
+One way of approaching this is to group the data by branch in a pivot table. Then display a sum of issues for each branch.
 
-Group > Pivot > Roll up (Sum)
+From the topics we've discussed in human data this is using Grouping, then Pivoting, and then Roll up (Sum)
 
 #### Excel
 
@@ -43,13 +43,13 @@ Group > Pivot > Roll up (Sum)
 3. Accept the default options and click **OK**
 4. In the Pivot table selections, drag the **'Library'** field into the **'Rows'** section
 5. Drag the **'Issues'** field into the **'Values'** section
-6. Excel will calculate a 'Count of issues' for each library. This is actually the number of rows of data for that library.  Instead, we want the SUM of the issues (each value added together). In the pivot table selections click on **'Count of issues'** and select **'Value field settings'**.  Select **'Sum'** and click **OK**.
+6. Excel may calculate a 'Count of issues' for each library. This is actually the number of rows of data for that library. Instead, we want the SUM of the issues (each value added together). In the pivot table selections click on **'Count of issues'** and select **'Value field settings'**.  Select **'Sum'** and click **OK**.
 7. To sort the table, click the drop down on the pivot table labelled **'Row labels'**.  Click **'More sort options'** and select **'Sum of issues'**.
 
 #### Google Sheets
 
 1. In Google Sheets (https://docs.google.com/spreadsheets) start a new blank sheet.
-2. Import the data.  Select **File > Import > Upload**. Drag the file newcastle_usage.csv to be uploaded, or use the file selection tool.
+2. Import the data. Select **File > Import > Upload**. Drag the file newcastle_usage.csv to be uploaded, or use the file selection tool.
 3. When prompted, select to replace the existing spreadsheet and click Import.
 4. Select from the menu **Data > Pivot table**.
 5. On the Pivot menu for the **Rows** option add the field Library.
