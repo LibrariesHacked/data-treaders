@@ -28,7 +28,7 @@ Attributes or values in the catalogue data
 1. What was the most recent item added to the catalogue? (sort)
 2. All items in the City branch stand together (filter) 
 3. How many classifications are there amongst us? (group by)
-4.Which branch has had the most number of issues? (roll up) 
+4. Which branch has had the most number of issues? (roll up) 
 5. Which item has been borrowed the most? (sort)
 
 
