@@ -1,11 +1,11 @@
 Background
 ==========
 
-Before advertising the event we used a Google form to ask interested attendees some questions, such as their data experience, which Library Carpentry modules they'd be interested in, and what they'd like to talk about at a data event.
+Before promoting the event we used a Google form to ask potential attendees questions, such as their data experience, which Library Carpentry modules they'd be interested in, and what they'd like to talk about at a data event.
 
 #### How would you describe your experience of working with data?
 
-We asked this so we could get an idea of how people viewed their own experience with data. That could influence the training sessions we ran, but was mainly to get an idea of the mix of attendees. Any training would ensure every level of expertise was welcome.
+We asked this so we could get an idea of how people viewed their experience with data. That could influence the training sessions we ran, but was mainly to get an idea of the mix of attendees. Any training would ensure every level of expertise was welcome.
 
 | Option | Description |
 | ------ | ----------- |
@@ -41,7 +41,7 @@ We asked this so we could get an idea of how people viewed their own experience 
 
 #### Which Library Carpentry modules would you most like to cover?
 
-We wanted to make this a chance to learn data skills. Library Carpentry materials are lessons in various areas around data, automation and programming. We asked people to vote on which modules they would like to learn (they could choose as many as they liked).
+We wanted to make this a chance to learn data skills. Library Carpentry materials are lessons in different areas around data, automation and programming. We asked people to vote on which modules they would like to learn (they could choose as many as they liked).
 
 | Option | Number of votes | More Info |
 | ------ | --------------- | --------- |

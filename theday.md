@@ -1,7 +1,7 @@
 The day
 -------
 
-Sessions are open for anyone to suggest topics they'd like to discuss. We'll update the timetable on the day.
+Sessions are open for anyone to suggest topics they'd like to discuss. We'll update the timetable on the day with the session titles.
 
 | Time | Room 1 | Room 2 | Room 3 |
 | ---- | ------ | ------ | ------ |
@@ -19,9 +19,13 @@ Sessions are open for anyone to suggest topics they'd like to discuss. We'll upd
 | 16:00 | Group feedback |  |  |
 | 16:30 | Home time |  |  |
 
+### Session pitches
+
+You don't have to come with anything prepared, but if there's a topic you'd like to discuss you could think about giving it a title and how explain it in a short pitch (no more than a minute!).
+
 ### Equipment
 
-A laptop would be useful for both of the practical workshops, and particularly if you'd like to get hands on experience with OpenRefine. However, do feel free to come along without one if more convenient, there'll be plenty of opportunity to follow along and lots of discussions!
+A laptop would be useful for both of the practical workshops, particularly if you'd like to get hands on experience with OpenRefine. However, do feel free to come along without one if more convenient, there'll be plenty of opportunity to follow along, and lots of discussions where there'll be no need for a laptop.
 
 #### Introduction to Data
 
