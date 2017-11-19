@@ -25,10 +25,11 @@ Attributes or values in the catalogue data
 
 ## Questions 
 
-1. What was the most recent item added to the catalogue?
-2. How many different branches are there aongst us?
-3. Which is the category with the most number of items?
-4. Which item has been borrowed the most? 
+1. What was the most recent item added to the catalogue? (sort)
+2. All items in the City branch stand together (filter) 
+3. How many classifications are there amongst us? (group by)
+4.Which branch has had the most number of issues? (roll up) 
+5. Which item has been borrowed the most? (sort)
 
 
 To do so, we need to understand the fundamentals of data analysis: Sort, Filter, Group by, Roll up, Count, and Unique Key.
