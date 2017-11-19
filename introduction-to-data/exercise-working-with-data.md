@@ -14,7 +14,7 @@ We will use another example dataset to play with data using spreadsheets.
 
 - **Newcastle library usage**, released by Newcastle libraries. The file we're using is a combination of issues, visits, and enquiries by month, for each library, from 2008. [Download this dataset](https://raw.githubusercontent.com/LibrariesHacked/data-treaders/master/introduction-to-data/newcastle_usage.csv)
 
-The data is released under the Creative Commons CCZero licence.
+The data is released under the Creative Commons CCZero licence. The original files published by Newcastle have been modified into one single file for this exercise.
 
 Issues (*newcastle_usage.csv*):
 
@@ -34,17 +34,19 @@ Demo
 
 One way of approaching this is to group the data by branch in a pivot table. Then display a sum of issues for each branch.
 
-From the topics we've discussed in human data this is using Grouping, then Pivoting, and then Roll up (Sum)
+From the topics we've discussed in human data, this is using Grouping, then Pivoting, and then Roll up (using the Sum of values)
 
 #### Excel
 
-1. Open *newcastle_usage.csv* in Excel.  Highlight all the data
+1. [Download and open](https://raw.githubusercontent.com/LibrariesHacked/data-treaders/master/introduction-to-data/newcastle_usage.csv) *newcastle_usage.csv* in Excel.  Highlight all the data
 2. On the Excel menu select **Insert > Pivot table** to launch a new Pivot table
 3. Accept the default options and click **OK**
 4. In the Pivot table selections, drag the **'Library'** field into the **'Rows'** section
 5. Drag the **'Issues'** field into the **'Values'** section
 6. Excel may calculate a 'Count of issues' for each library. This is actually the number of rows of data for that library. Instead, we want the SUM of the issues (each value added together). In the pivot table selections click on **'Count of issues'** and select **'Value field settings'**.  Select **'Sum'** and click **OK**.
 7. To sort the table, click the drop down on the pivot table labelled **'Row labels'**.  Click **'More sort options'** and select **'Sum of issues'**.
+
+We could have used alternatives to Sum. For example, average would show which library had the highest average (mean) issues.
 
 #### Google Sheets
 
@@ -60,11 +62,11 @@ You should finish with a table like the following (top 3 shown only).
 
 | Row labels | Sum of issues |
 | ---------- | ------------- |
-| Outer West | 830724 |
-| Gosforth | 1292978 |
-| City | 2874941 |
+| Outer West | 848529 |
+| Gosforth | 1319993 |
+| City | 2949062 |
 
-The library with the most issues is City.  The number of issues is 2,874,941.
+The library with the most issues is City. The total sum of issues is 2,949,062.
 
 Questions
 ----
