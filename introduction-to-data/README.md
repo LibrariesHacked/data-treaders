@@ -1,23 +1,21 @@
 Introduction to Data
 ====================
 
-Welcome to the introduction to data session.
-
-People: Claire Back, Dave Rowe
+Welcome to the introduction to data session run by Claire Back and Dave Rowe.
 
 Timetable
 ---------
 
 | Time | Description |
 | ---- | ----------- |
-| 10:00 | Introduction |
-| 10:05 | Group exercise: jargon busting |
-| 10:20 | Group exercise feedback |
-| 10:30 | Teaching: data and automation |
-| 10:35 | Human data intro |
-| 10:40 | Human data part A |
+| 10:05 | Introduction |
+| 10:10 | Group exercise: jargon busting |
+| 10:25 | Group exercise feedback |
+| 10:35 | Teaching: data and automation |
+| 10:40 | Human data intro |
+| 10:45 | Human data part A |
 | 10:50 | Human data part B |
-| 11:00 | Working with data exercises |
+| 11:05 | Working with data exercises and demo |
 | 11:15 | Finish and answers |
 
 Introduction
@@ -31,14 +29,14 @@ This session introduces working with data. At the conclusion of the lesson you w
 Why Data?
 ---------
 
-We make decisions every day. Sometimes these are very small ones that don't require much consideration. But in professional life they are often key to our roles and the people we are trying to help. There are many aspects to decision-making that we always try to take into account. What's the ethical thing to do? Is it legal? Is it possible?  Can we afford it? But do we always make decisions based upon clear evidence and data?
+We make decisions every day. Sometimes these are very small ones that don't require much consideration, or that come naturally through professional experience. But making the right decisions is key to our roles and the people we are trying to help. There are many aspects to decision-making that we always try to take into account. What's the ethical thing to do? Is it legal? Is it possible?  Can we afford it? Is it supported by data?
 
 Think of some example library-based decisions:
 
 - amount spent on different types of stock;
 - fines for overdue items;
 - hire charges;
-- staff levels in a library;
+- staff levels in a library at different times;
 - van routes and frequencies to move items between branches;
 - stock to have in different libraries;
 - opening hours;

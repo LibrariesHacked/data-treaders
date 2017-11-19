@@ -23,9 +23,9 @@ Task
 
 We will be separating into groups of 5-6 per table.
 
-### Part A: 15 minutes
+#### Part A: 15 minutes
 
-Taking the following set of terms and ideas, work together to explain what each one means (note: use both each other and the internet as a resource!). Try to only spend 1 minute on each and don't worry about covering them all. Make a note of those your group resolves and those you are still struggling with.
+Taking the following set of terms and work together to explain what each one means. Try to only spend 1 minute on each and don't worry about covering them all. Make a note of those your group resolves and those you are still struggling with.
 
 Use flipchart paper to write down each term, with thoughts on the definition around each one.
 
@@ -36,7 +36,7 @@ Use flipchart paper to write down each term, with thoughts on the definition aro
 | Big data | Regular expression | Data protection |
 | Open data | Aggregation | Anonymisation |
 
-### B: Feedback 5 mins
+#### B: Feedback 10 mins
 
 Report back on a single term discussed by your group.
 
