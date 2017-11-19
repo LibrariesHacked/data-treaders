@@ -43,7 +43,7 @@ Report back on a single term discussed by your group.
 Key points
 ----------
 
-- It helps to share what you know and don’t know about data and data-science jargon.
+- It helps to share what you know and don’t know about data, and data science jargon.
 
 Source Material
 ---------------
