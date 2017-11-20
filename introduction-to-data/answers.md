@@ -1,7 +1,7 @@
 Answers - Working with data
 ===========================
 
-Answers include methods for Microsoft Excel and Google Sheets. We're not specifically advocating for either of these, but they are commonly used tools, but there are open surce alternatives such as Libre Office. Other spreadsheet software will have very similar functionality.
+Answers include methods for Microsoft Excel and Google Sheets. We're not specifically advocating for either of these, but they are commonly used tools. There are open surce alternatives such as Libre Office. Other spreadsheet software will have very similar functionality.
 
 Possible methods
 ----------------
@@ -12,7 +12,7 @@ There are no absolute 'correct' ways of going about doing these tasks. These are
 
 Using pivot tables, as in the previous question, we can aggregate by particular fields, and sort the data.  However, the trickier part here is grouping by year, when we only have the data by month AND year (e.g. '2008-04').
 
-We can use a calculated column to create a new column showing the year.
+We can use a calculated column (and a formula) to create a new column showing the year.
 
 #### Excel
 

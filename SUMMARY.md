@@ -17,3 +17,7 @@
 * [Exercise. Human data worksheet 2](introduction-to-data/human-data-worksheet-2.md)
 * [Exercise. Working with data](introduction-to-data/exercise-working-with-data.md)
 * [Answers](introduction-to-data/answers.md)
+
+#### Open Refine 
+
+* [Introduction and Workshop materials](open-refine/README.md)
