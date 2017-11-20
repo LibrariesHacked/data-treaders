@@ -9,13 +9,13 @@ Sessions are open for anyone to suggest topics they'd like to discuss. We'll upd
 | 9:40 | Introductions, housekeeping, and session pitches |  |  |
 | 10:00 | Introduction to data |  | Breakout room |
 | 11:15 | Tea Break |  |  |
-| 11:30 | Session 1 | Session 2 |  |
-| 12:15 | Session 3 | Session 4 |  |
-| 13:00 | Lunch and setup guidance for OpenRefine |  |  |
-| 13:45 | Introduction to OpenRefine |  | Breakout room |
-| 14:20 | OpenRefine Workshop | Session 5 |  |
+| 11:30 | Open Data 101 - Lucy| Open Data advocacy - Aude|  |
+| 12:15 | Core dataset and developing a data schema - Charlotte | Extracting data and automation - Joe/Sue|  |
+| 13:00 | Lunch and setup guidance for OpenRefine | Social Media Surgery - Pauline |  |
+| 13:45 | Introduction to OpenRefine |  | Text adventures in libraries - Ross |
+| 14:20 | OpenRefine Workshop | |How to use an API - Lucy  |
 | 15:00 | Tea break |  |  |
-| 15:15 | Session 6 | Session 7 |  |
+| 15:15 | Publish your first data set - Aude| Social value - Lucy | Open data camp and libraries - Pauline |
 | 16:00 | Group feedback |  |  |
 | 16:30 | Home time |  |  |
 
