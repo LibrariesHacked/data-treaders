@@ -21,3 +21,7 @@
 #### Open Refine 
 
 * [Introduction and Workshop materials](open-refine/README.md)
+
+#### Sessions
+
+* [Session list](sessions/README.md)
