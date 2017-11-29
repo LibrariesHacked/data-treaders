@@ -13,7 +13,7 @@ Library Data Camp was mostly run as an unconference, so many sessions were decid
   type: 'bar', 
   data: { 
   labels: ["Data Intro", "Open Data 101", "Open Data advocacy", "Extracting data", "Core dataset/schema","Social media", "OpenRefine","Text adventures", "API", "Publish your first dataset", "Social value", "Open Data Camp", "Command Line", "SQL"], datasets: [{ 
-    label: '# of Votes', 
+    label: '# of attendees', 
     data: [3, 8, 2, 1, 1, 2, 3, 2, 4, 4, 2, 1], 
     backgroundColor: [ 
       'rgba(255, 99, 132, 0.2)', 
@@ -23,6 +23,11 @@ Library Data Camp was mostly run as an unconference, so many sessions were decid
       'rgba(153, 102, 255, 0.2)', 
       'rgba(255, 159, 64, 0.2)', 
       'rgba(255, 99, 132, 0.2)' 
+      'rgba(255, 99, 132, 0.2)', 
+      'rgba(54, 162, 235, 0.2)', 
+      'rgba(255, 206, 86, 0.2)', 
+      'rgba(75, 192, 192, 0.2)', 
+      'rgba(153, 102, 255, 0.2)', 
     ], 
     borderColor: [ 
       'rgba(255,99,132,1)', 
@@ -32,6 +37,11 @@ Library Data Camp was mostly run as an unconference, so many sessions were decid
       'rgba(153, 102, 255, 1)', 
       'rgba(255, 159, 64, 1)', 
       'rgba(255,99,132,1)' 
+      'rgba(255,99,132,1)', 
+      'rgba(54, 162, 235, 1)', 
+      'rgba(255, 206, 86, 1)', 
+      'rgba(75, 192, 192, 1)', 
+      'rgba(153, 102, 255, 1)', 
       ], 
       borderWidth: 1 
     }] 
