@@ -27,7 +27,7 @@ Library Data Camp was mostly run as an unconference, so many sessions were decid
       'rgba(224, 226, 74, 0.2)',
       'rgba(25, 205, 175, 0.2)',
       'rgba(207, 40, 229, 0.2)',
-      'rgba(229, 40, 90, 0.2)',
+      'rgba(229, 40, 90, 0.2)'
       
     ], 
     borderColor: [ 
@@ -37,12 +37,12 @@ Library Data Camp was mostly run as an unconference, so many sessions were decid
       'rgba(75, 192, 192, 1)', 
       'rgba(153, 102, 255, 1)', 
       'rgba(255, 159, 64, 1)', 
-      'rgba(255, 99, 132, 1)' 
+      'rgba(255, 99, 132, 1)',
       'rgba(97, 194, 45, 1)',
       'rgba(224, 226, 74, 1)',
       'rgba(25, 205, 175, 1)',
       'rgba(207, 40, 229, 1)',
-      'rgba(229, 40, 90, 1)',
+      'rgba(229, 40, 90, 1)'
     
       ], 
       borderWidth: 1 
