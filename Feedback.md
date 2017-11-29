@@ -6,7 +6,7 @@ All attendees were sent a link to a [Google form](https://goo.gl/forms/5JSfERpKy
 
 #### Which sessions did you attend that you personally got the most out of?
 
-Library Data Camp was mostly run as an unconference, so many sessions were decided on the day. We thought it would be useful to know which sessions attendees got the most out of personally. 
+Library Data Camp was mostly run as an unconference so many sessions were decided on the day. We thought it would be useful to know which sessions attendees got the most out of personally. 
 
 {% chartjs %} 
 { 
@@ -16,12 +16,12 @@ Library Data Camp was mostly run as an unconference, so many sessions were decid
     label: '# of attendees', 
     data: [3, 8, 2, 1, 1, 2, 3, 2, 4, 4, 2, 1], 
     backgroundColor: [ 
-      'rgba(255, 99, 132, 0.2)', 
-      'rgba(54, 162, 235, 0.2)', 
-      'rgba(255, 206, 86, 0.2)', 
-      'rgba(75, 192, 192, 0.2)', 
-      'rgba(153, 102, 255, 0.2)', 
-      'rgba(255, 159, 64, 0.2)', 
+      'rgba(255, 99, 132, 0.2)',
+      'rgba(54, 162, 235, 0.2)',
+      'rgba(255, 206, 86, 0.2)',
+      'rgba(75, 192, 192, 0.2)',
+      'rgba(153, 102, 255, 0.2)',
+      'rgba(255, 159, 64, 0.2)',
       'rgba(255, 99, 132, 0.2)',
       'rgba(97, 194, 45, 0.2)',
       'rgba(224, 226, 74, 0.2)',
@@ -31,12 +31,12 @@ Library Data Camp was mostly run as an unconference, so many sessions were decid
       
     ], 
     borderColor: [ 
-      'rgba(255, 99, 132, 1)', 
-      'rgba(54, 162, 235, 1)', 
-      'rgba(255, 206, 86, 1)', 
-      'rgba(75, 192, 192, 1)', 
-      'rgba(153, 102, 255, 1)', 
-      'rgba(255, 159, 64, 1)', 
+      'rgba(255, 99, 132, 1)',
+      'rgba(54, 162, 235, 1)',
+      'rgba(255, 206, 86, 1)',
+      'rgba(75, 192, 192, 1)',
+      'rgba(153, 102, 255, 1)',
+      'rgba(255, 159, 64, 1)',
       'rgba(255, 99, 132, 1)',
       'rgba(97, 194, 45, 1)',
       'rgba(224, 226, 74, 1)',
