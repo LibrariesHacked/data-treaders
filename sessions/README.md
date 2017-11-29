@@ -8,7 +8,7 @@ We had a great set of sessions proposed on the day. Thanks to everyone who propo
 | Open data 101 |
 | Open data advocacy |
 | Extracting data and automation |
-| Core dataset and developing a data schema |
+| [Core dataset and developing a data schema](core-dataset-and-data-schema.md) |
 | Social media surgery |
 | Text adventures in libraries |
 | How to use an API |

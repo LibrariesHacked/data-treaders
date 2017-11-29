@@ -25,3 +25,4 @@
 #### Sessions
 
 * [Session list](sessions/README.md)
+* [Core dataset and data schema](sessions/core-dataset-and-data-schema.md)
