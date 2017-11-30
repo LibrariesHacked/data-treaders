@@ -59,3 +59,35 @@ Library Data Camp was mostly run as an unconference so many sessions were decide
      } 
    } 
 {% endchartjs %}
+
+#### Learning outcomes 
+
+While planning Library Data Camp, we put together some outcomes and were keen to find out how much these had been met. In the feedback we asked how much attendees had learnt from the day based on these outcomes.
+
+##### 1. Understand key data terms 
+
+{% chartjs %}
+{
+    type: 'pie',
+    data: {
+        labels: ["Lots", "Little", "None"],
+        datasets: [{
+            label: '',
+            data: [6, 8, 0],
+            backgroundColor: [
+                'rgba(117, 14, 66, 0.2)',
+                'rgba(148, 223, 242, 0.2)',
+                'rgba(217, 217, 39, 0.2)'
+            ],
+            borderColor: [
+                'rgba(117,14,66,1)',
+                'rgba(148, 223, 242, 1)',
+                'rgba(217, 217, 39, 1)'
+            ]
+        }]
+    },
+    options: {
+
+    }
+}
+{% endchartjs %}
