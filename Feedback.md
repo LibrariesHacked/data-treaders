@@ -70,7 +70,7 @@ While planning Library Data Camp, we put together some outcomes and were keen to
 {
     type: 'pie',
     data: {
-        labels: ["Lots", "Little", "None"],
+        labels: ["Lots", "Some", "None"],
         datasets: [{
             label: '',
             data: [6, 8, 0],
@@ -91,3 +91,60 @@ While planning Library Data Camp, we put together some outcomes and were keen to
     }
 }
 {% endchartjs %}
+
+##### 2. Know what to do with your library data to demonstrate impact and make informed decisions
+
+{% chartjs %}
+{
+    type: 'pie',
+    data: {
+        labels: ["Lots", "Some", "None"],
+        datasets: [{
+            label: '',
+            data: [4, 8, 3],
+            backgroundColor: [
+                'rgba(117, 14, 66, 0.2)',
+                'rgba(148, 223, 242, 0.2)',
+                'rgba(217, 217, 39, 0.2)'
+            ],
+            borderColor: [
+                'rgba(117,14,66,1)',
+                'rgba(148, 223, 242, 1)',
+                'rgba(217, 217, 39, 1)'
+            ]
+        }]
+    },
+    options: {
+
+    }
+}
+{% endchartjs %}
+
+##### 3. Learn key skills in manipulating data
+
+{% chartjs %}
+{
+    type: 'pie',
+    data: {
+        labels: ["Lots", "Some", "None"],
+        datasets: [{
+            label: '',
+            data: [3, 8, 3],
+            backgroundColor: [
+                'rgba(117, 14, 66, 0.2)',
+                'rgba(148, 223, 242, 0.2)',
+                'rgba(217, 217, 39, 0.2)'
+            ],
+            borderColor: [
+                'rgba(117,14,66,1)',
+                'rgba(148, 223, 242, 1)',
+                'rgba(217, 217, 39, 1)'
+            ]
+        }]
+    },
+    options: {
+
+    }
+}
+{% endchartjs %}
+
