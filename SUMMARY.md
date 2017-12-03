@@ -25,7 +25,9 @@
 #### Sessions
 
 * [Session list](sessions/README.md)
+* [Open data advocacy](sessions/open-data-advocacy.md)
 * [Core dataset and data schema](sessions/core-dataset-and-data-schema.md)
+* [Publish your first dataset](sessions/publish-your-first-dataset.md)
 
 #### Feedback 
 
