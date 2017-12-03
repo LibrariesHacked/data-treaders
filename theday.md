@@ -10,7 +10,7 @@ Sessions are open for anyone to suggest topics they'd like to discuss. We'll upd
 | 10:00 | Introduction to data |  | Breakout room |
 | 11:15 | Tea Break |  |  |
 | 11:30 | Open Data 101 - Lucy| Open Data advocacy - Aude|  |
-| 12:15 | Extracting data and automation - Joe/Sue| Core dataset and developing a data schema - Charlotte |
+| 12:15 | Extracting data and automation - Joe/Sue| [Core dataset and developing a data schema] (https://voyage.datatreaders.co.uk/sessions/core-dataset-and-data-schema.html) - Charlotte |
 | 13:00 | Lunch and setup guidance for OpenRefine | Social Media Surgery - Pauline |  |
 | 13:45 | Introduction to OpenRefine | Text adventures in libraries - Ross | |
 | 14:25 | OpenRefine Workshop | How to use an API - Lucy  | |
