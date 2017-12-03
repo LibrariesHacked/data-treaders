@@ -12,6 +12,6 @@ We had a great set of sessions proposed on the day. Thanks to everyone who propo
 | Social media surgery |
 | Text adventures in libraries |
 | How to use an API |
-| [Publish your first dataset)](publish-your-first-dataset.md) |
+| [Publish your first dataset](publish-your-first-dataset.md) |
 | Open data and social value |
 | Open data camp and libraries |
