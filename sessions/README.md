@@ -6,7 +6,7 @@ We had a great set of sessions proposed on the day. Thanks to everyone who propo
 | Session |
 | ------- |
 | Open data 101 |
-| Open data advocacy |
+| [Open data advocacy](open-data-advocacy.md) |
 | Extracting data and automation |
 | [Core dataset and developing a data schema](core-dataset-and-data-schema.md) |
 | Social media surgery |
