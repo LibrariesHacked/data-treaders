@@ -148,3 +148,86 @@ While planning Library Data Camp, we put together some outcomes and were keen to
 }
 {% endchartjs %}
 
+##### 4. Engage the public and encourage re-use of your data
+
+{% chartjs %}
+{
+    type: 'pie',
+    data: {
+        labels: ["Lots", "Some", "None"],
+        datasets: [{
+            label: '',
+            data: [6, 8, 2],
+            backgroundColor: [
+                'rgba(117, 14, 66, 0.2)',
+                'rgba(148, 223, 242, 0.2)',
+                'rgba(217, 217, 39, 0.2)'
+            ],
+            borderColor: [
+                'rgba(117,14,66,1)',
+                'rgba(148, 223, 242, 1)',
+                'rgba(217, 217, 39, 1)'
+            ]
+        }]
+    },
+    options: {
+
+    }
+}
+{% endchartjs %}
+
+##### 5. Take on open data roles in your library service/authority
+
+{% chartjs %}
+{
+    type: 'pie',
+    data: {
+        labels: ["Lots", "Some", "None"],
+        datasets: [{
+            label: '',
+            data: [6, 8, 2],
+            backgroundColor: [
+                'rgba(117, 14, 66, 0.2)',
+                'rgba(148, 223, 242, 0.2)',
+                'rgba(217, 217, 39, 0.2)'
+            ],
+            borderColor: [
+                'rgba(117,14,66,1)',
+                'rgba(148, 223, 242, 1)',
+                'rgba(217, 217, 39, 1)'
+            ]
+        }]
+    },
+    options: {
+
+    }
+}
+{% endchartjs %}
+
+##### 6. Find out how to release data from different library systems
+
+{% chartjs %}
+{
+    type: 'pie',
+    data: {
+        labels: ["Lots", "Some", "None"],
+        datasets: [{
+            label: '',
+            data: [2, 6, 7],
+            backgroundColor: [
+                'rgba(117, 14, 66, 0.2)',
+                'rgba(148, 223, 242, 0.2)',
+                'rgba(217, 217, 39, 0.2)'
+            ],
+            borderColor: [
+                'rgba(117,14,66,1)',
+                'rgba(148, 223, 242, 1)',
+                'rgba(217, 217, 39, 1)'
+            ]
+        }]
+    },
+    options: {
+
+    }
+}
+{% endchartjs %}
