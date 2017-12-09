@@ -8,56 +8,57 @@ All attendees were sent a link to a [Google form](https://goo.gl/forms/5JSfERpKy
 
 Library Data Camp was mostly run as an unconference so many sessions were decided on the day. We thought it would be useful to know which sessions attendees got the most out of personally. 
 
-{% chartjs %} 
-{ 
-  type: 'bar', 
-  data: { 
-  labels: ["Data Intro", "Open Data 101", "Open Data advocacy", "Extracting data", "Core dataset/schema","Social media", "OpenRefine","Text adventures", "API", "Publish your first dataset", "Social value", "Open Data Camp",], datasets: [{ 
-    label: '# of attendees', 
-    data: [4, 10, 4, 2, 4, 3, 6, 3, 4, 6, 2, 2], 
-    backgroundColor: [ 
-      'rgba(255, 99, 132, 0.2)',
-      'rgba(54, 162, 235, 0.2)',
-      'rgba(255, 206, 86, 0.2)',
-      'rgba(75, 192, 192, 0.2)',
-      'rgba(153, 102, 255, 0.2)',
-      'rgba(255, 159, 64, 0.2)',
-      'rgba(255, 99, 132, 0.2)',
-      'rgba(97, 194, 45, 0.2)',
-      'rgba(224, 226, 74, 0.2)',
-      'rgba(25, 205, 175, 0.2)',
-      'rgba(207, 40, 229, 0.2)',
-      'rgba(229, 40, 90, 0.2)'
-      
-    ], 
-    borderColor: [ 
-      'rgba(255, 99, 132, 1)',
-      'rgba(54, 162, 235, 1)',
-      'rgba(255, 206, 86, 1)',
-      'rgba(75, 192, 192, 1)',
-      'rgba(153, 102, 255, 1)',
-      'rgba(255, 159, 64, 1)',
-      'rgba(255, 99, 132, 1)',
-      'rgba(97, 194, 45, 1)',
-      'rgba(224, 226, 74, 1)',
-      'rgba(25, 205, 175, 1)',
-      'rgba(207, 40, 229, 1)',
-      'rgba(229, 40, 90, 1)'
-    
-      ], 
-      borderWidth: 1 
-    }] 
-      }, 
-      options: { 
-        scales: { 
-          yAxes: [{ 
-            ticks: { 
-              beginAtZero:true 
-            } 
-          }] 
-       } 
-     } 
-   } 
+{% chartjs %}
+{
+	type: 'bar', 
+	data: {
+		labels: ["Data Intro", "Open Data 101", "Open Data advocacy", "Extracting data", "Core dataset/schema","Social media", "OpenRefine","Text adventures", "API", "Publish your first dataset", "Social value", "Open Data Camp"], 
+		datasets: [{
+			label: '# of attendees', 
+			data: [4, 10, 4, 2, 4, 3, 6, 3, 4, 6, 2, 2],
+			backgroundColor: [
+				'rgba(255, 99, 132, 0.2)',
+				'rgba(54, 162, 235, 0.2)',
+				'rgba(255, 206, 86, 0.2)',
+				'rgba(75, 192, 192, 0.2)',
+				'rgba(153, 102, 255, 0.2)',
+				'rgba(255, 159, 64, 0.2)',
+				'rgba(255, 99, 132, 0.2)',
+				'rgba(97, 194, 45, 0.2)',
+				'rgba(224, 226, 74, 0.2)',
+				'rgba(25, 205, 175, 0.2)',
+				'rgba(207, 40, 229, 0.2)',
+				'rgba(229, 40, 90, 0.2)'
+			],
+			borderColor: [ 
+				'rgba(255, 99, 132, 1)',
+				'rgba(54, 162, 235, 1)',
+				'rgba(255, 206, 86, 1)',
+				'rgba(75, 192, 192, 1)',
+				'rgba(153, 102, 255, 1)',
+				'rgba(255, 159, 64, 1)',
+				'rgba(255, 99, 132, 1)',
+				'rgba(97, 194, 45, 1)',
+				'rgba(224, 226, 74, 1)',
+				'rgba(25, 205, 175, 1)',
+				'rgba(207, 40, 229, 1)',
+				'rgba(229, 40, 90, 1)'
+			],
+			borderWidth: 1 
+		}]
+	},
+	options: {
+		scales: {
+			yAxes: [{
+				display: true,
+				ticks: {
+					beginAtZero: true,
+					min: 0
+				}
+			}]
+		}
+	}
+} 
 {% endchartjs %}
 
 #### Learning outcomes 
