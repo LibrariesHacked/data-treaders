@@ -14,7 +14,7 @@ Library Data Camp was mostly run as an unconference so many sessions were decide
   data: { 
   labels: ["Data Intro", "Open Data 101", "Open Data advocacy", "Extracting data", "Core dataset/schema","Social media", "OpenRefine","Text adventures", "API", "Publish your first dataset", "Social value", "Open Data Camp",], datasets: [{ 
     label: '# of attendees', 
-    data: [3, 8, 2, 1, 1, 2, 3, 2, 4, 4, 2, 1], 
+    data: [4, 10, 4, 2, 4, 3, 6, 3, 4, 6, 2, 2], 
     backgroundColor: [ 
       'rgba(255, 99, 132, 0.2)',
       'rgba(54, 162, 235, 0.2)',
@@ -73,7 +73,7 @@ While planning Library Data Camp, we put together some outcomes and were keen to
         labels: ["Lots", "Some", "None"],
         datasets: [{
             label: '',
-            data: [6, 8, 0],
+            data: [6, 9, 0],
             backgroundColor: [
                 'rgba(117, 14, 66, 0.2)',
                 'rgba(148, 223, 242, 0.2)',
@@ -101,7 +101,7 @@ While planning Library Data Camp, we put together some outcomes and were keen to
         labels: ["Lots", "Some", "None"],
         datasets: [{
             label: '',
-            data: [4, 8, 3],
+            data: [4, 9, 3],
             backgroundColor: [
                 'rgba(117, 14, 66, 0.2)',
                 'rgba(148, 223, 242, 0.2)',
@@ -129,7 +129,7 @@ While planning Library Data Camp, we put together some outcomes and were keen to
         labels: ["Lots", "Some", "None"],
         datasets: [{
             label: '',
-            data: [3, 8, 3],
+            data: [3, 8, 4],
             backgroundColor: [
                 'rgba(117, 14, 66, 0.2)',
                 'rgba(148, 223, 242, 0.2)',
@@ -157,7 +157,7 @@ While planning Library Data Camp, we put together some outcomes and were keen to
         labels: ["Lots", "Some", "None"],
         datasets: [{
             label: '',
-            data: [6, 8, 2],
+            data: [6, 8, 3],
             backgroundColor: [
                 'rgba(117, 14, 66, 0.2)',
                 'rgba(148, 223, 242, 0.2)',
@@ -185,7 +185,7 @@ While planning Library Data Camp, we put together some outcomes and were keen to
         labels: ["Lots", "Some", "None"],
         datasets: [{
             label: '',
-            data: [6, 8, 2],
+            data: [7, 8, 2],
             backgroundColor: [
                 'rgba(117, 14, 66, 0.2)',
                 'rgba(148, 223, 242, 0.2)',
@@ -213,7 +213,7 @@ While planning Library Data Camp, we put together some outcomes and were keen to
         labels: ["Lots", "Some", "None"],
         datasets: [{
             label: '',
-            data: [2, 6, 7],
+            data: [2, 7, 7],
             backgroundColor: [
                 'rgba(117, 14, 66, 0.2)',
                 'rgba(148, 223, 242, 0.2)',
