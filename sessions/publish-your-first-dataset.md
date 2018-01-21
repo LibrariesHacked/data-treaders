@@ -1,7 +1,7 @@
 Publish your first dataset
 ==========================
-*These are [Aude](https://twitter.com/Audesome)'s notes – Aude was facilitating this session*
-
+*These are [Aude](https://twitter.com/Audesome)'s notes – Aude was facilitating this session*.
+***
 With this session I wanted to see if in the course of 40min we could decide on a first dataset we could all publish, when we got back to our respective libraries.
 In the near future the Libraries Taskforce and the LGA will be looking at proper schemas for public library data, which will be more complex than what we could tackle in this session. Nevertheless, I wanted to both discuss with the other session participants the kind of things one would have to think about when starting to release data, and for us to create something together that we could all take back to our own libraries to then simply go ahead and start publishing open datasets.
 
@@ -22,7 +22,7 @@ And finally: **where will we publish** our issue figures open dataset? The obvio
 When you publish your dataset, do explain what it is (e.g. what your definition of “issues” encompasses) and what can be done with it (the licence it's under).
 
 And that's it! You could publish your very own first library dataset today. If you do get datasets published I'd love to hear about it; if you have any questions do contact me as well at aude[dot]charillon[at]newcastle[dot]gov[dot]uk
-
+***
 
 
 ![Photo of flipchart notes page1](https://raw.githubusercontent.com/LibrariesHacked/data-treaders/master/images/DSCN3897.JPG)
